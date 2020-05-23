@@ -4,3 +4,7 @@
 
 Yolov4 Paper : https://arxiv.org/abs/2004.10934
 
+# Performance Comparision:
+
+![Performance Comparision](https://github.com/VinishUchiha/Object-Detection-Using-Yolo4/blob/master/data/yolo.png)
+
